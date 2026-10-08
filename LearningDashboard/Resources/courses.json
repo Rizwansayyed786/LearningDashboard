@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      {
+        "id": 101,
+        "title": "Introduction",
+        "isCompleted": true
+      },
+      {
+        "id": 102,
+        "title": "Setting Up Python",
+        "isCompleted": true
+      },
+      {
+        "id": 103,
+        "title": "Variables & Data Types",
+        "isCompleted": true
+      },
+      {
+        "id": 104,
+        "title": "Operators",
+        "isCompleted": true
+      },
+      {
+        "id": 105,
+        "title": "Control Flow",
+        "isCompleted": true
+      },
+      {
+        "id": 106,
+        "title": "Loops",
+        "isCompleted": true
+      },
+      {
+        "id": 107,
+        "title": "Functions",
+        "isCompleted": true
+      },
+      {
+        "id": 108,
+        "title": "Modules & Packages",
+        "isCompleted": true
+      },
+      {
+        "id": 109,
+        "title": "Lists & Tuples",
+        "isCompleted": true
+      },
+      {
+        "id": 110,
+        "title": "Dictionaries & Sets",
+        "isCompleted": true
+      },
+      {
+        "id": 111,
+        "title": "String Handling",
+        "isCompleted": true
+      },
+      {
+        "id": 112,
+        "title": "File I/O",
+        "isCompleted": true
+      },
+      {
+        "id": 113,
+        "title": "Error Handling",
+        "isCompleted": true
+      },
+      {
+        "id": 114,
+        "title": "Object-Oriented Programming",
+        "isCompleted": false
+      },
+      {
+        "id": 115,
+        "title": "Inheritance",
+        "isCompleted": false
+      },
+      {
+        "id": 116,
+        "title": "Decorators",
+        "isCompleted": false
+      },
+      {
+        "id": 117,
+        "title": "Generators",
+        "isCompleted": false
+      },
+      {
+        "id": 118,
+        "title": "Virtual Environments",
+        "isCompleted": false
+      },
+      {
+        "id": 119,
+        "title": "Testing with pytest",
+        "isCompleted": false
+      },
+      {
+        "id": 120,
+        "title": "Final Project",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      {
+        "id": 201,
+        "title": "What Is Generative AI?",
+        "isCompleted": true
+      },
+      {
+        "id": 202,
+        "title": "History of Language Models",
+        "isCompleted": true
+      },
+      {
+        "id": 203,
+        "title": "Tokens & Embeddings",
+        "isCompleted": true
+      },
+      {
+        "id": 204,
+        "title": "Transformer Architecture",
+        "isCompleted": true
+      },
+      {
+        "id": 205,
+        "title": "Prompt Engineering Basics",
+        "isCompleted": true
+      },
+      {
+        "id": 206,
+        "title": "Advanced Prompting",
+        "isCompleted": true
+      },
+      {
+        "id": 207,
+        "title": "Model APIs",
+        "isCompleted": false
+      },
+      {
+        "id": 208,
+        "title": "Structured Outputs",
+        "isCompleted": false
+      },
+      {
+        "id": 209,
+        "title": "Retrieval-Augmented Generation",
+        "isCompleted": false
+      },
+      {
+        "id": 210,
+        "title": "Vector Databases",
+        "isCompleted": false
+      },
+      {
+        "id": 211,
+        "title": "Fine-Tuning Overview",
+        "isCompleted": false
+      },
+      {
+        "id": 212,
+        "title": "Agents & Tool Use",
+        "isCompleted": false
+      },
+      {
+        "id": 213,
+        "title": "Evaluation",
+        "isCompleted": false
+      },
+      {
+        "id": 214,
+        "title": "Safety & Guardrails",
+        "isCompleted": false
+      },
+      {
+        "id": 215,
+        "title": "Deploying GenAI Apps",
+        "isCompleted": false
+      },
+      {
+        "id": 216,
+        "title": "Capstone Project",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      {
+        "id": 301,
+        "title": "Web Fundamentals",
+        "isCompleted": true
+      },
+      {
+        "id": 302,
+        "title": "HTML Essentials",
+        "isCompleted": true
+      },
+      {
+        "id": 303,
+        "title": "CSS Layouts",
+        "isCompleted": true
+      },
+      {
+        "id": 304,
+        "title": "Responsive Design",
+        "isCompleted": true
+      },
+      {
+        "id": 305,
+        "title": "JavaScript Basics",
+        "isCompleted": true
+      },
+      {
+        "id": 306,
+        "title": "DOM Manipulation",
+        "isCompleted": true
+      },
+      {
+        "id": 307,
+        "title": "Async JavaScript",
+        "isCompleted": true
+      },
+      {
+        "id": 308,
+        "title": "TypeScript Intro",
+        "isCompleted": false
+      },
+      {
+        "id": 309,
+        "title": "Git & GitHub",
+        "isCompleted": false
+      },
+      {
+        "id": 310,
+        "title": "React Components",
+        "isCompleted": false
+      },
+      {
+        "id": 311,
+        "title": "React State & Hooks",
+        "isCompleted": false
+      },
+      {
+        "id": 312,
+        "title": "Routing",
+        "isCompleted": false
+      },
+      {
+        "id": 313,
+        "title": "Forms & Validation",
+        "isCompleted": false
+      },
+      {
+        "id": 314,
+        "title": "Node.js Basics",
+        "isCompleted": false
+      },
+      {
+        "id": 315,
+        "title": "Express APIs",
+        "isCompleted": false
+      },
+      {
+        "id": 316,
+        "title": "REST Design",
+        "isCompleted": false
+      },
+      {
+        "id": 317,
+        "title": "Databases & SQL",
+        "isCompleted": false
+      },
+      {
+        "id": 318,
+        "title": "ORM Basics",
+        "isCompleted": false
+      },
+      {
+        "id": 319,
+        "title": "Authentication",
+        "isCompleted": false
+      },
+      {
+        "id": 320,
+        "title": "Authorization",
+        "isCompleted": false
+      },
+      {
+        "id": 321,
+        "title": "Testing",
+        "isCompleted": false
+      },
+      {
+        "id": 322,
+        "title": "CI/CD",
+        "isCompleted": false
+      },
+      {
+        "id": 323,
+        "title": "Docker Basics",
+        "isCompleted": false
+      },
+      {
+        "id": 324,
+        "title": "Cloud Deployment",
+        "isCompleted": false
+      },
+      {
+        "id": 325,
+        "title": "Caching",
+        "isCompleted": false
+      },
+      {
+        "id": 326,
+        "title": "Performance",
+        "isCompleted": false
+      },
+      {
+        "id": 327,
+        "title": "Security Basics",
+        "isCompleted": false
+      },
+      {
+        "id": 328,
+        "title": "Capstone Project",
+        "isCompleted": false
+      }
+    ]
+  }
+]
