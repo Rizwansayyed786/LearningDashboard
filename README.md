@@ -1,29 +1,3 @@
-
-
-https://github.com/user-attachments/assets/838928de-f111-4edb-b13f-3186ac4bcb0a
-
-
-
-https://github.com/user-attachments/assets/935bb720-634c-4ea1-8e69-9879c2efa6ff
-
-
-
-https://github.com/user-attachments/assets/1b55115b-8501-4367-bdf7-25acae9042b6
-
-
-
-https://github.com/user-attachments/assets/6d050704-28e6-4530-8f7c-f9700b4854c3
-
-
-
-https://github.com/user-attachments/assets/b64639ae-e528-425c-857d-9e1c9ce09ec7
-
-
-
-https://github.com/user-attachments/assets/6abf91ac-ef63-402f-8282-b1af725fe72f
-
-
-
 # Learning Dashboard (iOS)
 
 SwiftUI app: Login → Course Dashboard → Course Details, with lesson completion and offline support.
@@ -68,3 +42,10 @@ Kotlin, Compose, ViewModel, Coroutines/Flow, Retrofit/OkHttp, Room for courses a
 
 ## Manual setup (without XcodeGen)
 New iOS App project "LearningDashboard" (SwiftUI, iOS 17+), delete the template files, drag in the `LearningDashboard/` folder (including `Resources/courses.json`, with "Copy items" and the app target checked), add a Unit Testing Bundle target and add `Tests/LearningDashboardTests/*`. Set Swift Language Version to 5 and, on Xcode 26, Default Actor Isolation to `nonisolated`.
+
+
+
+
+https://github.com/user-attachments/assets/4702dc40-5202-421a-9178-4b23bef8c6a8
+
+
